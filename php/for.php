@@ -1,3 +1,4 @@
+<?php
 $total = 0;
 echo $total;
 
